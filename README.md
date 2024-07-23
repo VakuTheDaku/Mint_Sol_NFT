@@ -1,1 +1,1 @@
-Example on minting an NFT on the solana blockchain using metaplex sdk
+Example on minting a NFT on the solana blockchain using metaplex sdk
